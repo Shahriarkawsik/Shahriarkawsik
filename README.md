@@ -8,9 +8,7 @@
 
 ###
 
-<br clear="both">
-
-<h4 align="left">Frontend Developer</h4>
+<h3 align="left">Frontend Developer</h3>
 
 ###
 
