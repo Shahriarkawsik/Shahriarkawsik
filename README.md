@@ -20,89 +20,46 @@
 
 ###
 
-<h1 align="center">Skills</h1>
+<h1 align="center">🚀 Skills</h1>
 
-###
-
-<h3 align="left">🖥️ Frontend Development</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
-
-###
-
-<h3 align="left">⚙️ Backend Development</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<h3 align="left">🚀 Authentication & Deployment</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-</div>
-
-###
-
-<h3 align="left">🛠️ Tools & Version Control</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-</div>
-
-###
-
-<h1 align="center">🌐 Social Contacts</h1>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/md-shahriar-kabir-cse" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/shahriar.kawsik" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://x.com/ShahriarKawsik" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
-
-###
+<table align="center">
+  <tr>
+    <td align="center" width="50%"><h3>🖥️ Frontend Development</h3></td>
+    <td align="center" width="50%"><h3>⚙️ Backend Development</h3></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5 logo" />
+      <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3 logo" />
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js logo" />
+      <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express logo" />
+      <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB logo" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center"><h3>🚀 Authentication & Deployment</h3></td>
+    <td align="center"><h3>🛠️ Tools & Version Control</h3></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo" />
+      <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="Netlify logo" />
+      <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git logo" />
+      <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
+      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code logo" />
+      <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman logo" />
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">🔥 My Stats :</h1>
 
