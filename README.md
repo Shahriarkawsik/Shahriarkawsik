@@ -22,7 +22,7 @@
 
 <h1 align="center">🚀 Skills</h1>
 
-<table align="center">
+<table width="100%">
   <tr>
     <td align="center" width="50%"><h3>🖥️ Frontend Development</h3></td>
     <td align="center" width="50%"><h3>⚙️ Backend Development</h3></td>
@@ -60,6 +60,7 @@
     </td>
   </tr>
 </table>
+
 
 <h1 align="center">🔥 My Stats :</h1>
 
