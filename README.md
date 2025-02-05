@@ -11,9 +11,10 @@
 <p align="left">🚀 Junior Web Developer || Frontend Developer ||  Junior  MERN Stack Developer  <br><br>✨ Working with web development since 2022.<br>📚 I am exploring Next.js<br>🎯 Goals: Become a full-stack web developer.<br>🎲 Fun fact: I love traveling!</p>
 
 ###
-##
-<h1 align="center">🚀 Skills</h1>
 
+##
+
+<h1 align="center">🚀 Skills</h1>
 
 <h3 align="left">🖥️ Frontend Development</h3>
 
@@ -81,9 +82,35 @@
 
 <h1 align="center">🔥 My Stats :</h1>
 
+###
+
+<h3 align="left">📈 Stats</h3>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahriarkawsik&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahriarkawsik&layout=compact&theme=dracula" height="150" alt="Top Languages" />
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shahriarkawsik&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahriarkawsik&theme=react-dark&radius=16" height="300" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahriarkawsik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shahriarkawsik&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
+
+###
+
+<h3 align="left">📊 Most Used Languages:</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahriarkawsik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">📈 My Contribution Graph</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahriarkawsik&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
