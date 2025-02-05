@@ -12,6 +12,16 @@
 
 ###
 
+<h2 align="center">About me</h2>
+
+###
+
+<p align="left">I’m a passionate MERN Stack Developer with MongoDB, Express, React, and Node.js expertise. I love building scalable, high-performance applications that seamlessly integrate front-end and back-end technologies.
+
+My journey in web development started with a deep curiosity about how the web works, and over time, I’ve developed strong skills in JavaScript, React, and modern frameworks.</p>
+
+###
+
 ##
 
 <h1 align="center">🚀 Skills</h1>
