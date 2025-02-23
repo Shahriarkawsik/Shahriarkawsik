@@ -9,7 +9,7 @@
 ###
 
 <p align="left">🚀 Junior Web Developer || Frontend Developer ||  Junior  MERN Stack Developer  <br><br>✨ Working with web development since 2022.<br>📚 I am exploring Next.js<br>🎯 Goals: Become a full-stack web developer.<br>🎲 Fun fact: I love traveling!</p>
-
+<a href="https://drive.google.com/file/d/1NNw5nYFSVrbthfPKGUnVwDFvQoft5gzX">Resume</a>
 ###
 
 <h1 align="center">💡 About Me</h1>
